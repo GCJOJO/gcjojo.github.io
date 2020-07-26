@@ -102,9 +102,9 @@ p {
 	cursor:pointer;
 
 	position:fixed;
-	width:50%;
+	width:14%;
 	bottom : 10%;
-	left : 25%;
+	left : 42.5%;
 	/*right: 12%; */
 
 	/* Disable text selection: https://stackoverflow.com/questions/826782/how-to-disable-text-selection-highlighting */
