@@ -47,8 +47,8 @@ p {
 
 	position:fixed;
 	width:50%;
-	bottom : 20%;
-	left : 25%;
+	bottom:20%;
+	left:25%;
 	/*right : 50%; */
 
 	/* Disable text selection: https://stackoverflow.com/questions/826782/how-to-disable-text-selection-highlighting */
@@ -95,8 +95,8 @@ button:active {
 
 	position:fixed;
 	width:50%;
-	bottom : 10%;
-	left : 25%;
+	bottom:10%;
+	left:25%;
 	/*right: 12%; */
 
 	/* Disable text selection: https://stackoverflow.com/questions/826782/how-to-disable-text-selection-highlighting */
