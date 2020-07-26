@@ -33,9 +33,7 @@ p {
 }
 
 .github {
-
-
-font-family: arial;
+	font-family: arial;
 	text-align: center;
 	font-size: 25px;
 	padding: 10px 10px;
@@ -84,6 +82,8 @@ font-family: arial;
 
   transition: 0.1s border-radius;
 }
+
+
 .projects:active {
   background-color: #5591ff;
 }
